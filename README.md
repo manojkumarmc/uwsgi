@@ -1,5 +1,3 @@
-# uwsgi
-
 
 How to install uwsgi
 
